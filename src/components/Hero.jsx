@@ -21,9 +21,9 @@ const Hero = () => {
 
                     <div className="hero-text">
                         <motion.div variants={textVariant()}>
-                        <h1 className="head-text">Hi, My Name Is Wisdom Shotz</h1>
+                        <h1 className="head-text">Hi, I'm Jeremiah Ataman</h1>
                         </motion.div>
-                        <motion.p variants={fadeIn("", "", 0.1, 1)} className="sub-text">I'm A web developer, Graphics Designer, Photographer, Videographer</motion.p>
+                        <motion.p variants={fadeIn("", "", 0.1, 1)} className="sub-text">I'm A web designer, Product Designer and Web Developer</motion.p>
                         <div className="computer-3d">
                             <ComputersCanvas />
                         </div>
